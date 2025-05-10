@@ -82,14 +82,14 @@ weight = 4
   description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
 ```
 
-* set your main section (used as the link for the "writings" title on the homepage)
+* set your main section (used as the link for the "Experience" title on the homepage)
 
 ```toml
 [params]
   mainSection = "posts"
 ```
 
-* change the default main section title from Writings, to something else:
+* change the default main section title from Experience, to something else:
 
 ```toml
 [params]
